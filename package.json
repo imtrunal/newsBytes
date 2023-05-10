@@ -1,0 +1,21 @@
+{
+  "name": "newsbytes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^5.4.0",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22",
+    "randomstring": "^1.2.3"
+  }
+}
